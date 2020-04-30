@@ -1,0 +1,9 @@
+v1.0-ru:
+- Релиз 1-й версии мода.
+- Исправлена текстура адского камня.
+- Добавлена полная русская локализация.
+
+v1.0-en:
+- Released the 1st version of modification.
+- Fixed texture of netherrack.
+- Added full russian localisation.
